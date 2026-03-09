@@ -1,4 +1,4 @@
-# Plantillas_Web (Web_Templates)
+# Plantillas Web (Web Templates)
 
 #### ES: 
 Este repositorio contiene los módulos cuyas muestras interactivas y visuales se encuentran en mi **[Perfil de CodePen](https://codepen.io/Ramzlas)**. Fue creado para documentar y centralizar mis modelos de desarrollo web.
