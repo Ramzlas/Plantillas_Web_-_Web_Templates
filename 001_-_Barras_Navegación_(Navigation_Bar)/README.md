@@ -19,3 +19,5 @@
 
 5. **005 - NOMBRE (NAME)**
    - ES: Detalle del módulo. : EN: Module details.
+
+---
