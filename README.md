@@ -10,7 +10,7 @@ This repository contains the modules whose interactive and visual samples can be
 
 ## Colecciones (Collections)
 
-1. **[001_-_Barras_de_Navegación_(Navigation_Bar)](./001_-_Barras_de_Navegación_(Navigation_Bar))**
+1. **[001_-_Barras_de_Navegación_(Navigation_Bar)](https://codepen.io/collection/gPREeG))**
    - ES: Colección de módulos de Barras de Navegación.
    - EN: Collection of Navigation Bar modules.
 
