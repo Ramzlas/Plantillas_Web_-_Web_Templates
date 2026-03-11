@@ -14,15 +14,15 @@ This repository contains the modules whose interactive and visual samples can be
    - ES: Colección de módulos de Barras de Navegación.
    - EN: Collection of Navigation Bar modules.
 
-2. **[002_-_Cuerpos_y_Contenido_(Body_and_Content)](./002_-_Cuerpos_y_Contenido_(Body_and_Content))**
+2. **[002_-_Cuerpos_y_Contenido_(Body_and_Content)](https://codepen.io/collection/BaemvY))**
    - ES: Colección de módulos de Cuerpos y Contenido.
    - EN: Collection of Bodies and Content modules.
 
-3. **[003_-_Componentes_e_Interacción_(Components_and_Interaction)](./003_-_Componentes_e_Interacción_(Components_and_Interaction))**
+3. **[003_-_Componentes_e_Interacción_(Components_and_Interaction)](https://codepen.io/collection/wkrPRm))**
    - ES: Colección de módulos de Componentes e Interacción.
    - EN: Collection of Components and Interaction modules.
 
-4. **[004_-_Pies_de_Página_(Footers)](./004_-_Pies_de_Página_(Footers))**
+4. **[004_-_Pies_de_Página_(Footers)](https://codepen.io/collection/bGRYOk))**
    - ES: Colección de módulos de Pies de Página.
    - EN: Collection of Footers modules.
 
